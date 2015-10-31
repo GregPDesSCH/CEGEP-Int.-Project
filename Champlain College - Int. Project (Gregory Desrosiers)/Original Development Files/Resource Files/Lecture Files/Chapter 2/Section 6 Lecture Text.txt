@@ -1,0 +1,15 @@
+Our last section for Chapter 2 is uniform circular motion, where an object revolves around a circular path at a constant speed. 
+
+Even though the velocity is kept constant, its direction keeps changing because there is an acceleration vector that is always perpendicular to the velocity vector. As the velocity vector changes direction, the acceleration vector changes direction too so that way the path the object follows is a circle.
+
+There are several examples of uniform circular motion; satellite orbits, centrifuges, food blenders, and even laundry and dryer machines. Such machines use uniform circular motion (also known as centripetal motion) for different purposes.
+
+There is a universal formula involved for uniform circular motion. Work out two arbitrary velocity vectors and two arbitrary radius vectors and use their differences. Use a ratio, then substitute the difference in radius vectors with the approximate product of the velocity variable and the time interval. When you isolate the time interval from the right side of the proportion because acceleration is velocity over time, you are left with the equation for the acceleration of uniform circular motion.
+
+The equation of acceleration under uniform circular motion is the square of the velocity of the object (tangent to the circular path) divided by the radius of the circular path.
+
+Please take note that there exists a circular motion where it is not uniform because there is an acceleration imposed on the velocity. The equation for the radial acceleration is the same, except that you are dealing with a tangential acceleration this time. If you are given a value of time, you need to use it to calculate what the tangential velocity is after that amount of time based on the tangential acceleration.
+
+There is a simulation provided in this program that allows you to experiment with not only uniform circular motion, but also non-uniform circular motion.
+
+This does it for circular motion. This is also the conclusion of Chapter 2. Good luck with the simulations, exercises and quizzes!

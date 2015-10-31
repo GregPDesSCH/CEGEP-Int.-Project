@@ -1,0 +1,113 @@
+There are so many uses of physics all around the world; we see them at home, at school, even whenever we are out by the forest or by the countryside. However, we can't find solutions to multiple situations, involving physics, without the use of mathematics.
+
+It should be noted that mathematics, especially calculus, is inter-related to physics. There is so much fundamental use of this branch of science in physics alone that it would be almost impossible to describe artificial and natural phenomena without them. If you're taking a chemistry course as well, you really need to use mathematics too. Here are a few details about this.
+
+There exist multiple equations where you may need to use differential calculus in order to get the proper equations you need to solve them. Differential calculus is the study of functions to which we take a look at the rate of change in quantities. 
+
+There are so many uses of differential calculus, in the real world, that even professional people, such as engineers, heavily involve the use of it. There are many topics of differential calculus you will be exploring (you may skip a few, depending on your professor): limits of function, including one-sided limits, derivatives, several rules of finding derivatives including chain and power rules, L'Hôpital's rule, mean value theorem, implicit differentiation, inverse functions, stationary points including maxima and minima points, related rates, and optimization.
+
+Considering that many concepts in physics do involve rates of functions, it's best to approach and learn differential calculus. You start out with functions and finding their limits, and as you start gaining experience in them, you'll see how the most fundamental concepts in calculus do involve the limit of a function. Eventually, what you'll learn the important notation in solving for rates of functions: derivatives.
+
+Here's an example of using calculus: finding instantaneous acceleration involves finding the derivative of some velocity function before plugging the necessary values in. Otherwise, you would get infinity. If you have taken differential calculus, or learning some right now, you may want to use it to your advantage because then you'll be able to find definite answers that would otherwise be impossible.
+
+If you have completed differential calculus, you may be exposed to integral calculus by now, or already. If, however, you haven't learned integral calculus, continue to the next page. Otherwise, go to page 17.
+
+In integral calculus, you are doing the opposites of finding derivatives. There are still many different uses of it to research, or solve, physical phenomena. You are exposed to a very special symbol: the integral sign, very similar to the Latin letter "Esh."
+
+Using integral calculus allows you to evaluate two different types of integrals, definite integrals and indefinite integrals. They are similar to each other, except one involves an extra step. You are finding the antiderivatives of a given function to find, let's say, the position of a wave from an electromagnetic source.
+
+In an indefinite integral, all you're doing is finding the antiderivative of a function. In definite integrals, however, you are given two limit values where after finding the antiderivative, you must plug them in. Evaluate them, then find the difference in between; assuming that g(x) is the antidervative of f(x), you need to apply g(b) – g(a) where a is the lower limit and b is the upper limit.
+
+You may be somewhat confused already by having integrals introduced too fast. To give yourself a chance to understand the underlying concept of integrals, once you get into the hands of derivatives, you would start with the Riemann sum.
+
+Other concepts you would learn in integral calculus involve integration by parts, integration by substitution, partial fractions, the fundamental theorem of calculus, arc length, line integration, disk integration, shell integration, and some rules when evaluating expressions of integrals.
+
+For both differential and integral calculus, you will have access to tables that give you the result of evaluating the derivatives or antiderivatives of such functions. You need to start off learning about limits of functions first, but eventually you'll notice that evaluating derivatives or antiderivatives can be simplified.
+
+If you are lucky, you may run into some extra topics in learning calculus, particularly series and sequences. You got geometric series, harmonic series, Taylor series, power series, binomial (two-term polynomials) series, Maclaurin series, and sequences of numbers.
+
+As much as you may be interested into learning calculus, you won't be able to learn all the topics of it in one or two college semesters. You'll have to learn certain topics on your own; it can be tiring, but the advantage is, you'll be able to apply it more in physics and solve complicated physical phenomena easy. 
+
+Still, you'll need abstract understanding to solve complicated problems. It is still possible to learn calculus, even if there can be problems that turn out to be extremely hard for you but not for some others. Everyone has their own strengths and weaknesses.
+
+Anyway, here are some extensive uses of calculus in physics. The reason why calculus is often part of the core of physics is because physics sometimes have to do with changes in quantities. There are a lot of phenomena where quantities do change in various circumstances: motion, forces, collisions, waves, light, electricity, magnetism, fluids, and sometimes chemistry. (That doesn't mean all phenomena involve the use of calculus, however.)
+
+Here's an overview on the use of calculus in physics. This does bring up what are the topics of physics, and what equations you may be using, when learning them. But you'll find out that it is important to take some knowledge of calculus either first or at the same time you're learning physics; there are still equations where all you need is simple math and drawing to solve phenomena, but in the real world, we can tend to use more calculus.
+
+The important topics in physics are motion, forces, collisions, wave physics, electricity, magnetism, and optics and modern physics. Your physics course may also allow you to learn fluid motion, thermodynamics, and some other specific areas aside from the most important concepts in each fundamental area.
+
+In motion physics, you have instantaneous velocity and instantaneous acceleration.  They involve finding the derivatives of displacement and velocity functions, respectfully, because you cannot evaluate the usual formulas with time equal to zero; if you do, you will get infinity, which doesn't make sense. Even if you were to study motion in more than one dimension, which involves Cartesian graphs, you still have to find the derivatives of the displacement and velocity functions for each axis respectively.
+
+Once you find the derivatives of such functions, there are two possibilities. First is, if you get a constant from deriving the function, use that value for the variable you've derived the original equation for. Or if you still have a polynomial, try plugging in the value to get the instantaneous velocity or acceleration. Apply rules of differentiating a function appropriately to make sure you don't run into values of infinity when calculating with the limit.
+
+When you encounter the equations for constant acceleration, which allows you to solve for different variables regarding motion, you are dealing with average accelerations.  If you can grasp calculus, you should be able to see a relationship between two different equations; it's not revealed here, so you're on your own for this.
+
+Once you learn some simple motion physics, you will start being exposed to forces. You will deal with three fundamental laws of forces all conceptualized by Sir Issac Newton; the law that deals with some calculus is the second law, which involves acceleration. An object in motion has a certain momentum; the derivative of the equation for momentum is actually Newton's second law.
+
+One important use of Newton's second law is actually calculating the weight of an object. We tend to confuse how much matter we have on our bodies with the word "weight" whenever we use scales to keep track of our health. In physics, the actual term for the amount of matter in any given object is "mass."
+
+When you start to use Newton's laws, you'll find out more on how forces are as important to everyday objects. There are so many phenomena, related to forces, to discuss, such as friction, gravity, springs, and what are the uses of it in real-life applications, especially in engineering projects.
+
+Some other uses of calculus in physics involve work, energy and power; they are often based on forces of objects. Work involves the integration of a force equation, then evaluating it using the fundamental theorem of calculus. Kinetic energy is the result of integrating Newton's second law with respect to distance, both for indefinite and definite integrals. Instantaneous power involves calculus too because the time interval is close to zero.
+
+Conservation of energy, potential energy including gravitational and potential energy, universal gravitational energy, and center of masses on objects with continuous matter all involve integrals. Because forces vary in collisions and often fluctuate upon one, calculating the impulse, or the change in momentum, does involve integrals too.
+
+What you have been looking at so far isn't all of what calculus is involved for. Angular motion, rotational inertia, rotational energy, and structural stability in static equilibrium all involve calculus.
+
+In wave physics, you don't necessarily just consider electromagnetic waves; you can see that because waves are formed as oscillations instead of completely linear, this would apply to objects as well, known as harmonic motion, or oscillatory motion. Like any other motion, you can apply calculus to it appropriately.
+
+Because wave physics has more equations not involving rates on distance or movement, there isn't that much calculus application into it. There's still at least some relevant used to it, like when you want to do calculations on damped harmonic motion, where the distance covered by half a wave decreases overtime. Another use of it is driven oscillations.
+
+However, one important implementation of harmonic motion is, you can still calculate relative kinetic and potential energies of objects under harmonic motion. Differentiate the displacement equations for harmonic motion, and then plug in the necessary values to calculate the instantaneous velocity and acceleration of the object under harmonic motion.
+
+In more complicated wave motions, we don't necessarily rely on trigonometric equations to define waves. Physicists often take into account the different physical disturbances that can occur to an object in wave motion, and so they do a second order partial derivative of the original harmonic displacement function to find the actual wave equation; the original harmonic displacement function being a sinusoidal function.
+
+If you are planning to cover thermodynamics and an extra topic involving wave motion called fluid motion, please read on for a quick overview on what are the relevant uses of calculus in them. Otherwise, go to page 40.
+
+In fluid motion, there is one relevant use of calculus, which is hydrostatic equilibrium. It spans across several equations and in several applications, including wind energy, flight and turbulence.
+
+There are so many uses of fluid motion, particularly airplanes, boats, and cruise ships. Engineers often involve the use of fluid motion when developing such machines of motion because they have to make sure that by following designs and tested models, the actual aircraft will fly, or the cargo ship will float on water.
+
+The introductory chapter of thermodynamics, the thermal behaviour of matter, does not involve calculus. However, you do need it when describing the rates of change in thermal energy, as well as finding the quantity of energy in isothermal process, although you will be given a very direct equation. However, there is an integration process involved in getting the equation.
+
+You involve an integral when calculating work done by a gas as the volume occupied changes. You need to integrate an equation when calculating the entropy change of a given system. There are other equations involved in thermodynamics, but at the level of physics you'll be in, you may or may not have to involve calculus a lot with the other equations.
+
+Thermodynamics can be a little similar to what you've possibly learned in chemistry, or will be exploring, only you will be exploring them in more physics detail and probably find some relevant integrative uses of them. There are so many uses of them, where the most important is actually in electricity generation.
+
+Speaking of thermodynamics, why don't we move on to electricity and magnetism? As much as you may be excited to investigate electricity and magnetism in physics, unfortunately this chapter will not reveal all details of the material. 
+
+In electricity and magnetism, you have so many uses of calculus, primarily for components that involve continuous charge. You see the use of this in so many electrical components worldwide, such as entertainment systems and computers, and even power transmission.
+
+Electric field with continuous charge distributions, work in rotating electric dipoles, electric flux, Gauss' Law for enclosed charge quantities, and electric potential all involve integration. Some topics do involve the use of them, so when you start learning electricity and magnetism, you should try to understand how to work them out as best as you can.
+
+You also will be using calculus in potentials of point charges, electric field from electric potentials (known as equipotentials), potentials through continuous charge distributions, total energy in non-uniform electric fields, instantaneous current, magnetic fields based on the Biot-Savart law, Gauss' law for magnetism, Ampère's law, magnetic flux, Faraday's law for electromotive force and electric fields, induced electromotive force in inductors, and electrostatic fields.
+
+There are certain textbooks to show on how some very important equations are derived, where integral calculus is used. As such, you should be able to find explanations on how these equations are found based on what has been discussed so far. Some teachers may also decide to let you try out integrating an equation by substituting known variables with their corresponding implicit differentiation fractions.
+
+There is one particular chapter in electricity and magnetism that illustrates concepts involving calculus, but the equations are relative to sinusoidal functions. That's because there is generally two types of electricity to be discussed: direct current and alternating current. The chapter has to do with alternating currents, where the current and voltage are determined not by equations given in direct current, but rather in alternating current.
+
+Alternating current is used in many electrical transmission systems because as you will probably see in electricity and magnetism, electricity generation is not direct current at all. It will include an explanation to how alternating current is the type of current generated from electric generators at power plants. The reason why sinusoidal functions are used in alternating current is because current and voltage is not kept at constant numbers; it actually fluctuates under a given electrical frequency.
+
+It still involves a little bit of differential calculus because you're calculating the current and voltage as functions of time relative to sinusoidal periods. You are following a cycle where the current and voltage reaches absolute (meaning actual positive value) maximum amplitude at two different points in time, given that the period of the cycle remains constant. Frequencies are how many cycles are executed per second; it's easy to find them in a sinusoidal function.
+
+Going back to using calculus, the major laws you'll be using in electricity and magnetism may necessarily have some modification, but the modifications are not done by you. They were introduced by James Clerk Maxwell where new equations are introduced as a result, and they involve both differential and integral calculus. You'll find it in the modification of Ampère's law, and three other fundamental laws of electricity and magnetism; Gauss' for electric field, Gauss' for magnetic fields, and Faraday's for electric field based on flux.
+
+You don't want to learn equations with Maxwell's modifications just yet. Start out with the original equations first, and then you can follow the modified equations, because you'll probably need to understand the concepts of the original laws first before you can see why modifications are introduced.
+
+One last concept to be introduced in electricity and magnetism that may involve calculus is the Poynting vector. You may not learn this concept in your course, but you can in your own time. It may involve calculus because it does involve electric field and magnetic field vectors, which of course, if electric fields and magnetic fields are not uniform, you will have to integrate equations first.
+
+The next area in physics is optics where you'll study the physics of light, light in different mediums, how it behaves in different circumstances such as diffraction, as well as how it behaves in mirrors and prisms. Unfortunately, you will not be using calculus in optics because the concepts of this field have many straightforward equations of their own. Specifically, they deal with simple displacements and values that are never rates of functions or areas based on given intervals of functions.
+
+For optics, you simply need some mathematics, particularly some trigonometry and algebra. You will be dealing with different cases and theories, as this relates to not only mathematics, but also visualization of what happens because optics deals with sight. It behaves differently with different mathematical values because the relation of optics with objects is not always the same with different objects. For example, a converging lens has a real focal point and length, while a diverging lens has a virtual focal point and length.
+
+The last major topic in physics is modern physics. It consists of relativity, particles and waves, quantum mechanics, and both atomic and nuclear physics. Some of these topics can actually be related to chemistry because chemistry also involves the study of atoms.
+
+The only major use of calculus is in quantum mechanics, particularly with the Schrodinger equation. Of course, the Schrödinger equation is also used in atomic physics, such as radial probability density. You may or may not learn the equation depending on the topics to be covered in the course, as well as what are the circumstances that does influence the plan of what to learn in the course.
+
+All the other uses of calculus in modern physics are simply to explain how certain new equations, such as radioactive decay, based on the number of nuclei, are derived. 
+
+Those are all the fundamental uses of calculus in physics. You now are aware that because physics spans calculus in many different areas, it's best to understand it as much as possible, because then you will be able to calculate values of certain physical quantities needed, as well as in algebra, to answer questions regarding physics and real-world applications. You may even get a chance to apply your own knowledge of physics through integrative activities, in which you are given a real-world situation where you must answer a few questions with consistent answers.
+
+Eventually, you can see that mathematics is not just a pre-requisite; it's also a co-requisite because you'll be using it at the same time as you're learning physics, and when you're solving problems or doing lab experiments.
+
+That does it for what you need to know in physics. From this lecture, you were able to become aware of what you will, and may, be learning in your own physics classes. It's up to you to get yourself into learning this interesting material, because the better you understand, the more interesting it will be when you see all the real world applications.

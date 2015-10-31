@@ -1,0 +1,373 @@
+Thank you for using The Desrosiers Mechanics Teaching Tool - Lite Version.
+
+
+
+This is the graduation project of me, Gregory Desrosiers, all the way from
+Champlain College Saint-Lambert in Montreal, Canada.
+
+We at Champlain College have worked so hard to exercise our own knowledge of
+computer science and mathematics by expanding our knowledge of Oracle's
+JAVA programming language over three semesters, and then using both this
+and the material we've learned from our program, excel our intelligence with
+the development of our integrative projects.
+
+As for me, it's been a hard-working effort in developing the project. I did
+seek into developing a lot more than implemented realistically, but because
+of the reality of semesters with several other courses to worry about, I
+have decided to put a lite version of my full project.
+
+Nevertheless, I hope this project turns out the best for you as we students
+tackle new topics and horizons into the future. You'll never know whether
+a project will turn into excellence, so keep an eye out!
+
+So this is me, signing off. And I hope future knowledge turns out best for
+me and all the people who may reach out my projects, including you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Desrosiers Mechanics Teaching Tool
+PROJECT STAFF
+
+January 21, 2014 - May 20, 2014
+
+
+
+
+
+< DEVELOPMENT TEAM >
+
+
+Developer & Programmer
+
+Gregory Desrosiers
+
+
+Development Support
+
+Simon Cochrane
+William Leclerc
+Olivier Carrière
+Sean Marcoux
+Chloé Ménard
+Mugisha "Christine" Joyce Kakou
+Alexandre Comeau-Vermeersch
+Ege "Jason" Özer
+Jonathan Luciux-André
+Darrin Fong
+Jeremy Brown
+Simon Thompson
+Tiémé-Frédéric Togola
+Patrick Todd
+Louis-Philippe Haché
+Ho Man Chan
+
+
+
+< PROJECT AID >
+
+
+Assistants for Programmer
+
+Marie Pupo
+Emily O' Donnell
+
+
+
+< EDUCATION SUPPORT >
+
+
+College Program & 
+Extracurricular Education Professors
+
+Norcene Webb
+Gabriel Indurskis
+David Rozon
+Kerry Cruise
+Rachel Morris
+Panagiota "Pota" Kanavaros
+Alison Clark
+Srinath Baba
+Daria Buczko-Hackett
+Krista Elizabeth Smeltzer
+Jade Préfontaine
+Michèle Titcombe
+Fouad Ajami
+Sarmista Das
+Craig Sinclair
+Peter Varfalvy
+Salvatore "Sonny" Carlo Ruffolo
+Carmela Mancuso
+Gabriel Flacks
+Marc Dagenais
+Marie-Hélène Burman
+Benoit Larose
+Mao Chambers
+
+
+Extracurricular Students
+
+Alexandre Meijer
+Bruno Gosselin
+Jared Grant
+Suleman Latif
+Brendan Lacasse
+Nicolas Pinard
+Jeffrey Marois-McKenzie
+Matthew Ullyot
+Alexander Weihmeyer-Hamel
+
+
+Tutors
+
+Mary Pennefather
+Anne-Florence St-Laurent
+Abigail Free (McGill)
+Catherine Kozminski-Martin
+
+
+In-Class Assistants
+
+Devon Strueger
+Brigita Ehrensperger
+Robert Shaul
+Christina Tricarico (Concordia)
+Chris Kwok (McGill)
+
+
+IT Technicians
+
+Denise Menard
+Salvatore D'Amico
+
+
+Mentors (from 2011-2012 Mel Berish's WINGS Project)
+
+Nicole Bourassa 
+(Riverside School Board - Heritage Regional High School)
+
+Rami Chaouki
+Caitlin Kelley
+Megan Clarke
+Sarah Ismail
+Jennifer Tracey
+
+
+Student Services Director
+
+Dean Howie
+
+
+Student Services Secretary
+
+Celine Bourgeois
+
+
+Academic Psychologist
+
+Wanita Jones
+
+
+Counselors
+
+Veronica Wynne
+Mel Berish
+
+
+Financial Aid & SLAM Life Officer
+
+Dave Persons
+
+
+Special Needs Education Teacher & Coordinator
+(Riverside School Board's ADAM's PACE Program)
+
+Marina Bresba
+
+
+
+< PROGRAMMER PERSONAL SUPPORT >
+
+
+Natalie Pepiot
+Roxanne Evelyn Brace
+Jessica Myre
+Rachel & Sonia Giulione
+Roxanne Bougie
+Benjamin "Ben" Lomon
+Jasna Queenville
+Nathalie Geukers
+Charles Brasset-Mimeault
+Conor Antenucci
+Jonathan Ferreira
+Olivia Ciampini
+Marianne Blais
+Kayla White
+Sam Chaussé
+Mélissa Brochet
+Stephanie Tardif-Bennett
+Alex Pace
+James Brace
+Philip Steve Auclair
+Marino Soumas
+Kristopher Koliakos
+Bhavrik "Nicki" Nanda
+Paula Fasano
+Justin Hunt
+Jordan McAran Bourque
+Shane & Kellie Kiakas
+Gabriel Thibault-Fredette
+Stephanie Fredette
+Alexandra Coutu
+Kate & Sarah Poitier
+Jessie & Carly Howarth
+Marcel Ndayizamba
+Stefany St-Arnaud
+Stéphanie & Isabelle Richard
+David Bastien
+Marie-Pier Desbiens
+Connor & Madison Hynes
+Ian & James Hutt-Borelli
+Giuliana Bevilacqua
+Benjamin Daunoravicius
+Bonnie Gauthier
+Jonathan & Nicholas Frenette
+Sabrina Langelier
+Wasif Choudhury
+Catherine Benson
+Natasha Marois-Mckenzie
+Amanda Wai
+Anthony Kazazian
+Valerie Nguyen
+Daniel Diaz
+Michelle Di Meo
+Jennifer Coulombe
+Sarah Vanwambeke
+William MacCaul
+Mathieu Drolet
+Barbara Goodall
+Allyson Allaire
+Maryse Quintal
+Milène Mallette
+Laurence Panneton
+Mariah & Rebecca MacCaul
+Gabrielle Caron
+Samantha & Ashley Hogan
+Emily Demers
+Roxanne Gareau
+Shauna O'Brien
+Anne Ouillet
+Allyson Allaire
+Marley Chase
+Jean-David Parent
+Corine Tellier
+Sarah Trépanier-Chicoine
+Bonnie Gauthier
+Trevor Wo
+Alex Milton
+Ophelie Lacasse
+Jean-Michel Beaudoin
+Cameron Levins
+Carly Comtois
+Alyssa-Rubylee Gardner
+Michelle Steben
+David Phibes
+Bruna Sunye
+Alexandra Smith
+
+
+	
+< SPECIAL THANKS >
+
+
+Programmer Family Members & Friends
+
+François Desrosiers
+Ann Roy
+Corina Wind
+Jacques Caron
+Quentin Desrosiers
+Abraham Wind
+Kelsey-Hope Patrick
+
+
+Education Members
+
+Dale Huston
+
+Riverside School Board
+
+Members of the Champlain Saint-Lambert - George Wallace Library
+Champlain College Saint-Lambert - Physics Department
+All Champlain Regional College Staff
+
+
+International People and Corporations
+
+Richard Wolfson
+Pearson Education, Inc.
+Eclipse Foundation
+Original Sun Microsystems Team for JAVA
+JAVA Creator James Gosling
+Oracle Corporation
+
+Rovio Entertainment, Ltd.
+(Mikael Hed, Nikolas Hed, Peter Vesterbacka)
+
+Google, Inc.
+Marc Zuckerberg and Facebook, Inc.
+Stack Exchange, Inc.
+
+w3schools.com
+coderanch.com
+
+Ministère de l'Éducation, du Loisir, et du Sport du Québec
+
+
+
+< MANAGEMENT TEAM >
+
+
+Academic Advisor
+
+Dayle Lesperance
+
+
+Assistant Producers
+
+Samia Ramadan
+Jennifer Liutec
+Robert Bierman
+
+
+Producer & Director
+
+Amin Ranj Bar
+
+
+Senior Producer & College Program Director
+
+Pedro Cabrejo
+
+
+Executive Producer
+
+Don Shewan
+
+
+
+
+
+This project is a tribute to 
+
+Linda McGirr
+Computer Science Department Director & Professor

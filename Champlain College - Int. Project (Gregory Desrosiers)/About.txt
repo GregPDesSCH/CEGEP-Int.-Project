@@ -1,0 +1,72 @@
+
+					~ The Desrosiers Mechanics Teaching Tool ~
+					
+					
+	
+	Created and Developed By Gregory Desrosiers
+	
+	Start Date: Friday, February 21st, 2014
+	End Date: Tuesday, May 13th, 2014
+	
+	Project Start Date: Tuesday, January 21st, 2014
+	Project End Date: Tuesday, May 20th, 2014
+	
+	Produced in association with Champlain Regional College - Saint-Lambert Campus
+	Integrative Project in Computer Science and Mathematics (420-204-RE)
+	
+	Development Support: 
+	William Leclerc, Simon Cochrane, Olivier Carrière, Sean Marcoux, Chloé Ménard
+	Mugisha "Christine" Joyce Kakou, Alexandre Comeau-Vermeersch, Ege "Jason" Özer,
+	Jonathan Luciux-André, Darrin Fong, Jeremy Brown, Simon Thompson, Tiémé-Frédéric Togola
+	Patrick Todd, Ho Man Chan
+	
+	
+	
+	
+	
+	Assistants for Programmer: Marie Pupo, Emily O' Donnell
+	
+	Assistant Producers: Samia Ramadan, Jennifer Liutec, Robert Bierman
+	
+	Producer & Director: Amin Ranj Bar
+	
+	Senior Producer & College Program Director: Pedro Cabrejo
+	
+	Executive Producer: Don Shewan
+	
+	In Memory of Linda McGirr,
+	Computer Science Department Director & Professor
+	
+	
+	
+	
+	
+
+	DISCLAIMER: This program has not been registered in the copyright database of the
+	Canadian Intellectual Property Office. It is copyrighted as is only for the purpose
+	that this property is owned exclusively by Gregory Desrosiers, Champlain College Saint-Lambert,
+	and Champlain Regional College.
+
+	This program is not for sale, and you do not have the right to modify the source
+	code and redistribute this program.
+
+
+
+
+	This program has been developed using Oracle's JAVA 1.7.0 programming language. 
+	(JAVA Development Kit v1.7.0_45)
+
+	™ & © 2014 Oracle Corporation. JAVA, the JAVA logo, and its affilates, are trademarks 
+	and/or copyrighted material of Oracle. All rights reserved.
+
+	Developed using Eclipse Kepler and NetBeans 7.3.1 IDEs. 
+	Eclipse Kepler © Eclipse contributors and others 2005, 2013.  All rights reserved.
+
+	NetBeans 7.3.1 IDE © 2013 Oracle Corporation. All rights reserved.
+
+	© 2014 Champlain Regional College. Production © 2014 Champlain College Saint-Lambert. 
+	Source Code and Project Design © 2014 Gregory Desrosiers. The Champlain Regional
+	College logo, the Champlain College Saint-Lambert logo, the affilates, and the names,
+	are trademarks and/or copyrighted material of their respectful owners. 
+	All rights reserved.
+	

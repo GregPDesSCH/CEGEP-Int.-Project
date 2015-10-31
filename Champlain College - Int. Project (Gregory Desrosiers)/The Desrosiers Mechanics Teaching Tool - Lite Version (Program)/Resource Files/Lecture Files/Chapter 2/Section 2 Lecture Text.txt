@@ -1,0 +1,19 @@
+Velocity and acceleration started out as one-dimensional values. It can actually work in two or more dimensions; only instead of having position as one dimensional, it is now a vector. That means that velocity and acceleration in multiple dimensions are now vectors.
+
+The concepts for instantaneous and average velocities are the same for velocity and acceleration vectors, only that they are based on displacement vectors now. The average velocity vector is based on the average displacement, as a vector, over a given interval of time. The instantaneous velocity vector is based on instantaneous displacement, as a vector as well, over time, or the rate an object is displaced, as a vector, as a function of time. The average displacement vector is actually the difference of the initial and final displacement vectors.
+
+For an explanatory approach, the velocity vector can be expressed as two or more unit vectors. Be sure to say "i-hat" and "j-hat" when you explain the components verbally, and write down the actual annotation of the axial unit vectors when asked so on paper.
+
+Essentially, you can see that in the real world, velocity is not one-dimensional, but three-dimensional. Such physical phenomenon occurs to objects regarding to velocity that it is important to represent velocity as a vector.
+
+Acceleration is applied the same way, in a vector sense, as velocity too. The average acceleration vector is based on the change in velocity, as a vector, over a given interval of time. The instantaneous acceleration vector is based on the rate of which the velocity changes over the change in time, or the instantaneous velocity vector over time. Take note that the acceleration vectors can be expressed in terms of unit vectors as well.
+
+The ideas of displacement, velocity and acceleration can be applied to these vectors, only we must do them component-wise instead of magnitude-wise. If all vectors lie upon one particular axis, however, it makes sense to evaluate them by magnitudes only, because all the other axial components of those vectors are zero.
+
+Some quantities, such as time, are universal, meaning that it doesn't affect just one component of a vector or even one vector if applicable. It affects other components, or other vectors if applicable, too.
+
+If there is an initial velocity vector and an acceleration vector, within a given time interval, the resulting velocity vector will change its magnitude and direction. It's all based on scalar multiplication and addition; we multiply the acceleration vector with the time interval to get the change in velocity vector, then add it to the initial velocity vector to get the final velocity vector.
+
+If the acceleration vector is perpendicular to the initial velocity vector, the velocity vector changes direction because a lateral velocity component is introduced. If, however, the acceleration vector is in the same direction as the initial velocity vector, the resulting velocity vector is in the same direction as the initial velocity vector, with a different magnitude. The components of the resulting velocity vector are calculated from the same procedure as discussed from the last page.
+
+You will find out in other sections of the chapter that you will be using these types of motion vectors. Without them, it would be impossible to explain, let's say, what the resulting velocity of a tennis ball would be when it reaches the ground after you hit it from your tennis racket. This concludes velocity and acceleration vectors.

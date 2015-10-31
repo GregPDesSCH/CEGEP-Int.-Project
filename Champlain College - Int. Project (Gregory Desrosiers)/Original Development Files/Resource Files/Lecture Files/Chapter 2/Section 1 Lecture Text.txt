@@ -1,0 +1,41 @@
+Motion does not necessarily only involve just, for example, the velocity or displacement of any object. There's a direction associated with it to where the motion is executed.  Rolling a ball away from you is not the same as rolling a ball towards you, although the motion can be the same.
+
+To bring this phenomenon, we use what are called vectors. They are used in both practical and theoretical applications, because they are part of the dimensions we have around us. Vectors are essentially like pointed arrows that study a phenomenon on an object such as velocity.
+
+A vector has both a direction and a magnitude. The magnitude is also called the norm, which is the length of the vector. If the vector can be drawn on a Cartesian graph, or plane, there is a direction based on an independent axes or a line passing through the origin.
+
+There are several types of vectors to consider: position vectors, velocity vectors, acceleration vectors, and force vectors. The magnitude usually has a unit of measurement, while the direction can be determined by using any arbitrary simple axes; for example, a car can have its forward displacement axis on the road, and its turn in an axis perpendicular to forward motion. You will use all of them later on.
+
+You can do several operations with vectors; vectors have operations of their own. You can add vectors, subtract them, multiply them by a scalar, divide a factor of the scalar, and calculate their magnitudes and direction. Let's take a look at each of the operations.
+
+First of all, you can add vectors together, whether it is two, three, or more. To add two vectors, for instance, simply add the corresponding components of the vectors as follows: u (vector) + v (vector) = (u1 + v1, u2 + v2)
+
+Subtracting vectors is easy too. Simply do the same process as adding two or more vectors, except you need to replace the add sign with the subtraction sign. Assuming you have two vectors, subtract one from the other as follows: u (vector) – v (vector) = (u1 – v1, u2 – v2).
+
+Something interesting to point out before we talk about scalar multiplication: when you are subtracting one vector by another vector, it's actually the sum of one vector with another vector multiplied by a scalar of -1. 
+
+A scalar is a number, usually an integer. You can still use different kinds of numbers as scalars for vectors, including pi.
+
+To multiply a vector by a scalar, multiply each individual component by the scalar. In general for a 2D vector, if you have an arbitrary scalar k and an arbitrary vector v, you can compute kv as follows: kv (vector) = (k * v1, k * v2).
+
+You can combine two or more numbers together into one scalar, and still apply scalar multiplication to a vector. Assuming you have n values, you get the combined scalar by doing the following: scalar = (n1)*(n2)*(n3)*...*(nn).
+
+In terms of dividing a vector by a numeric factor, we don't really talk about it. Nevertheless, there is a way you can get from nv to v, assuming that n is a number. Simply multiply nv by the inverse of n, or 1/n.
+
+The length of the vector, which is called the magnitude (or norm in certain cases), in physics, can be calculated. Because the vector components can be seen as the legs of a right triangle, apply the Pythagorean Theorem to calculate the hypotenuse of the triangle, or the vector's magnitude.
+
+Vectors do have a direction, as they are heavily based by the components on the x-axis and y-axis. Assuming you are given the values of the components of that vector, you can calculate the direction by using the inverse of the tangent function, then plugging in a fraction where the y-component is the numerator, and the x-component is the denominator.
+
+If you are given the magnitude of a vector and its direction, you can calculate the individual components of that vector. Calculate the x-component of the vector by multiplying the magnitude with the cosine of the direction, and calculate the y-component of the vector by multiplying the magnitude with the sine of the direction. 
+
+Be sure that the direction is in degrees, or in the most appropriate case for physics, radians. You can use a unit circle to determine what the values the angle would be for each unit and find the direction of that angle accordingly. Oh, and be sure to set your calculators accordingly.
+
+At this point, you may want to say "this 3-inch displacement vector is pointing 65° above the x-axis" or "the x- and y-components of this 60 km/h velocity vector are 20 km/h and 56.57 km/h respectively." For a more simpler explanation, we can use a special kind of vector where the components of the original vector are scalars of the two special vectors.
+
+This special vector is called the unit vector, where it has a magnitude of exactly 1. These unit vectors are based on the corresponding axes of the Cartesian plane from where the original vector is shown. In two dimensions, the x-axis has a unit vector "i-hat," while the y-axis has a unit vector "j-hat."
+
+Component-wise, the "i-hat" unit vector has components (1, 0), and the "j-hat" unit vector has components (0, 1). Use them to explain original vectors instead. For example, a vector, whose components are 10 and 15, is best to be explained as "10 i-hat and 15 j-hat."
+
+When working with unit vectors, you can still apply vector arithmetic to them. Simply isolate the i-hat and j-hat notations, then work out the operation accordingly before multiplying the notation with the corresponding scalars.
+
+This is the conclusion of vectors. There are fundamental uses of them in this chapter; let's move on!

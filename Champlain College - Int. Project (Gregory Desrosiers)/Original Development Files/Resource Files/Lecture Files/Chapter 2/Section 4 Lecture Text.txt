@@ -1,0 +1,23 @@
+Constant acceleration is applied to motion in one dimension. But did you know that constant acceleration can also be applied to vectors as well? When we mean constant acceleration in terms of vectors, we actually mean that the individual components of the acceleration vector never change.
+
+Like one-dimensional constant acceleration, multi-dimensional constant acceleration applies in instances of a situation, or the entire situation, where the acceleration components are kept constant. When given a problem that does involve constant acceleration, be sure that you apply constant acceleration carefully. It doesn't necessarily mean that all parts of the problem will involve the same initial acceleration.
+
+The equations for using constant acceleration with vectors are roughly the same as one-dimensional constant acceleration, only that you are using vector arithmetic, including vector scalar multiplication.
+
+When you are given an initial velocity vector and both an acceleration vector and time as a scalar, you can calculate the final velocity vector. Multiply the acceleration vector by the value you're given as time, then add that vector component-wise to the initial velocity vector.
+
+An example of this would be a bicycle going around in circles. If you keep holding the handles in the same direction, the acceleration vector will be kept constant as long as you keep pedaling around. Because you are moving in a circle, your final velocity vector will be kept tangential to the circle instead of in the same direction of your current vector velocity before. In other words, you're following along a circle instead of leaving it.
+
+If you have an initial displacement vector, an initial velocity vector, an acceleration vector, and a value for time, you can calculate the final displacement vector. Multiply the initial velocity vector with the value of time, multiply the acceleration vector with the square of the value of time, divided by two, then sum the resulting vectors with the initial displacement vector to get the final displacement vector.
+
+There are several situations where you can apply the formulas for constant acceleration with vectors. An example would be when you have a ball that is rolling along a table, but then runs into another surface with a greater deceleration than the first surface.
+
+When you use these vector equations in given problems, break the formulas down into independent axes, and apply the independent components appropriately. Use the components of the vectors to find the components of the required vector. Once you get to the solution, you may be asked to find the direction and magnitude of the resulting vector; calculate them appropriately as well.
+
+Sometimes you may be given a problem where you are given one unknown. You'll then have to work out the problem not only using the ideas discussed here, but also with algebra. There are, of course, other occasions where more algebra is given, but the academic level of this will be kept low to make sure you can understand it when you understand most of the material given. 
+
+One major case you'll come across is when you have to find the value for time from the second constant acceleration vector equation; you'll have to use the quadratic formula. You can get the value of time from one axis of the vector, then you can double check with the other axes to make sure that the values of time from the other axes are the same as the one you get.
+
+This section is one of the fundamentals of this chapter, but it involves material from Chapter 1. You'll be using both vector techniques and techniques with regards to motion to solve multi-dimensional constant acceleration problems. Be sure to look at the past lectures if you are having trouble.
+
+This does it for constant acceleration with vectors. There is one fundamental section in this chapter that is heavily based on this section, and has more material to cover.

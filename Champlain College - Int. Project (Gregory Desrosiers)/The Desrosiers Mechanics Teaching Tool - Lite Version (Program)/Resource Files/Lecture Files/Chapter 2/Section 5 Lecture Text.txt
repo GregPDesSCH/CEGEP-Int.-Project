@@ -1,0 +1,21 @@
+A projectile is any kind of object launched into the air, and moves based on gravity. There is a phase where the object is flying under the influence of gravity. You have so many examples: soccer balls, darts, Rovio's Angry Birds, fireworks, and even pistol bullets.
+
+We can express projectile motion using the same equations as the last section, with a few exceptions. The simplest case is where we neglect air resistance and other kinds of forces that can change the motion or acceleration of a projectile. 
+
+Here, we split the equations into individual components, and add in an extra term in the equations regarding the y-axis, because projectile motion is entirely limited by gravitational acceleration. How long a projectile will fly in the air is most importantly determined by gravitational acceleration alone. In the real world, however, there are other circumstances that can affect the flight time of the projectile, such as aerodynamics, fluid motion, and possible collisions with surroundings.
+
+In the x-axis, projectile motion is generalized where no x acceleration is imposed on the object. As such, the final x velocity of the projectile is the same as the initial x velocity of the projectile. In the other equation, the final x displacement is the sum of the initial x displacement and the initial x velocity multiplied by the value given for time.
+
+The y-axis is different because of gravity. Thus, we have to worry about gravitational acceleration. Because in an ideal flight, a projectile forms a parabolic curve, this shows that gravitational acceleration opposes the initial y velocity, given that the projectile is launched upwards. As such, the projectile reaches a maximum height before it starts falling back down, with the magnitude of its velocity becoming bigger because the y-component of the velocity vector is becoming larger.
+
+In other words, the gravitational acceleration is negative. To find the y-velocity of the projectile, subtract the initial y-velocity of the projectile by the product of the gravitational acceleration and the value given for time, assuming that at the instance the current time frame is the value given, the projectile is still in the air.
+
+In finding the final y displacement, add the initial y displacement with the product of the initial y velocity and the value of time, then minus the sum with half the gravitational acceleration times the square of the value of time.
+
+You may be asked in a problem to find the value of a particular variable in an equation. As such, use the equations as well as algebra as necessary to solve for that variable.
+
+There is a way where you can calculate the current height of the projectile based on its predicted trajectory. Multiply x by the tangent of the initial launch angle, then subtract it with the square of x times a fraction where gravitational acceleration is the numerator, and the denominator is two times the product of the square of the initial velocity vector magnitude and the square of the cosine of the initial launch angle.
+
+You can also calculate the range of the projectile. To calculate the max displacement value x of a projectile, multiply the sine of two times the initial launch angle by a quotient where the square of the initial velocity vector magnitude is the numerator and the gravitational acceleration is the denominator.
+
+From this equation alone, you can see on  how there is a limit on how long a projectile can fly, because if there is no gravitational acceleration, it would fly forever and never land.

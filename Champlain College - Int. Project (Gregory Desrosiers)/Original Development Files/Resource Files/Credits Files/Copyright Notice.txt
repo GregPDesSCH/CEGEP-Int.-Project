@@ -1,0 +1,16 @@
+This program has been developed using Oracle's JAVA 1.7.0 programming language. 
+(JAVA Development Kit v1.7.0_45)
+
+™ & © 2014 Oracle Corporation. JAVA, the JAVA logo, and its affilates, are trademarks 
+and/or copyrighted material of Oracle. All rights reserved.
+
+Developed using Eclipse Kepler and NetBeans 7.3.1 IDEs. 
+Eclipse Kepler © Eclipse contributors and others 2005, 2013.  All rights reserved.
+
+NetBeans 7.3.1 IDE © 2013 Oracle Corporation. All rights reserved.
+
+© 2014 Champlain Regional College. Production © 2014 Champlain College Saint-Lambert. 
+Source Code and Project Design © 2014 Gregory Desrosiers. The Champlain Regional
+College logo, the Champlain College Saint-Lambert logo, the affilates, and the names,
+are trademarks and/or copyrighted material of their respectful owners. 
+All rights reserved.

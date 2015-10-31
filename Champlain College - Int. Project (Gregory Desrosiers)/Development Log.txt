@@ -1,0 +1,195 @@
+The Desrosiers Mechanics Teaching Tool - Development Log
+
+February 21, 2014
+All abstract classes and core class files have been created without any algorithm entry.
+
+February 22, 2014
+Access modifiers for the abstract classes changed.
+
+February 23 - 28, 2014
+Falling behind schedule on development, but lack of development done because of tasks
+to be done outside development.
+
+February 28, 2014
+All subclasses of the abstract classes, without any algorithm entries, for the 
+programTopicComponents package have been created and saved in the src directory.
+
+March 1, 2014
+All classes of the commonClasses subpackage of the programTopicComponents package
+have been defined. Comment blocks are added to all classes except to subclasses of the
+abstract classes for all subpackages of the programTopicComponents package except the
+commonClasses subpackage.
+
+March 3, 2014
+Rough build of HighScoreEntry class constructed, with a test done to make sure the
+time format method works properly (a printf statement is needed to print it properly.)
+
+March 4, 2014
+All subclasses of AverageAcceleration, AverageVelocity, InstantaneousAcceleration, and
+InstantaneousVelocity, are complete. The initial code for the equals and toString methods
+are placed in all other subclasses of the equation classes to be used for this project.
+
+March 6, 2014
+Major code for the other classes in the motionInAStraightLine subpackage of the
+programTopicComponents package is in place. Some classes in the motionInTwoandThreeDimensions
+subpackage have code put in place as well. Comments are not yet completed and must be fixed.
+
+March 7, 2014
+All documentation comments in the motionInAStraightLine subpackage set. Major code added
+to some classes in the motionInTwoandThreeDimensions subpackage.
+
+March 8, 2014 - March 9, 2014
+Major Code for the rest of the classes in the motionInTwoandThreeDimensions subpackage
+put in place. Comments missing and therefore must be completed another time.
+
+March 9, 2014
+Major Code for all classes in the forcesAndMotion subpackage put in place. Subclasses
+of CircularOrbitSpeed, OrbitalPeriodOfCircularOrbit, and UniversalGravitationalForce have
+code entered as well. Comments still incomplete and must be in place.
+
+March 10, 2014
+Major Code for all classes in newtonLaws subpackage put in place. Because GravityAcceleration
+and its subclasses involve almost the same equation as the gravitational field vector, where
+it is coded in such a way that represents exact gravitational acceleration, those classes
+have been removed from the project. All of the major code for the classes in the gravity
+and staticEquilibrium subpackages now in place. Comments incomplete.
+
+March 10, 2014 - March 11, 2014
+Constructors for other classes in the programTopicComponents package in place except for the
+major code. Some major code put in place for several classes in the workEnergyAndPower subpackage.
+Comments still incomplete.
+
+March 11, 2014
+Constructors put in place for classes in the menuBars and dialogs subpackages of the guiComponents
+package. Comments still not in place.
+
+March 12, 2014
+Major code put in place for all classes in the conservationOfEnergy subpackage and several
+different classes in other incomplete packages: NucleiActivity, AngularFrequency, and
+OscillationFrequency.
+
+March 13 - March 14, 2014
+Major code put in place for all classes in the nuclearPhysics and rotationalMotion subpackages.
+
+March 16, 2014
+Data fields put in place for all abstract classes of the programTopicComponents package to be 
+worked on. Comments still not put in place.
+
+March 21, 2014
+A rough build of the debugging utility is complete. It's not finished, but it will come later.
+Comments still not put in place.
+
+March 25, 2014
+Two rough builds of the menus going along the menu bars have been made. Not tested. For simplicity,
+a general class for the actions involving the menu buttons has been made. Comments not in place.
+
+March 27, 2014
+Rough builds have been created for the other menus that go with the menu bars. Associated actions
+and their mnemonics are put in place, except for what the action will do when they are clicked
+by the mouse pointer. Comments are not in place.
+
+March 28, 2014
+All menus have been tested. Time has been taken to see if some of the generated code used to
+lay out the components from NetBeans' WYSIWYG editor on a panel, and it results that it does
+work. After a few modifications, the panel will be displayed exactly as a frame with a panel
+that have its components laid out graphically.
+
+March 29, 2014 - April 2, 2014
+Panels for the modes and the dialogs have been created. Comments in place for only the necessary
+classes to be used in this project. Panels not yet tested.
+
+April 3, 2014 - April 5, 2014
+Logo for the entire program has been created. Logos for programmer and college have been retrieved.
+Panels tested and ready for assembly. Material for these panels to be used is not yet in place.
+
+April 6, 2014 - April 7, 2014
+A rough animation sequence of the credits roll has been created. JAVA logo missing, and the major
+panels have not been put together yet. The subject material still has to be continuted before it
+can be programmed in the build accordingly.
+
+April 8, 2014
+A rough build of the splash screen, that will appear when the program starts loading up, has been
+made. A few details have been changed for the credits.
+
+April 15, 2014
+A change has been made to the credits roll of the program.
+
+April 16, 2014
+A Main Menu panel has been created. All the comments automatically created on the panels designed
+must be changed. The program is not yet put together and tested for one chapter.
+
+April 17 - 18, 2014
+Some code of the Main Menu Panel has been pasted and modified. Part of the material to be used in
+the program has been made as well.
+
+April 19, 2014
+The code for the panels have been put in place onto Eclipse, with a few modifications to avoid
+compiler errors and confusing variable names. The panels are not yet tested, and the subject material
+to be incorporated into the program is not complete.
+
+April 20, 2014
+Rough assembly of the entire program has been made. The popup menus are not yet added, and there is
+still subject material to be completed. Code must be simplified, and there has to be extensive
+testing on the program for all possible cases.
+
+April 21, 2014
+Popup menus still not constructed, but a few changes have been made, particularly with the creation
+of a new package to set the actionPerformed method in instances of MenuBarAction through neighboring
+classes. Some listeners are programmed. A lot of material to be programmed into the tool is missing.
+Some started code for the menu bar listeners has been put in place.
+
+The credits thread problem has been fixed, and additional info is on the credits file.
+
+April 22, 2014 - April 23, 2014
+More of the subject material to be programmed into the tool has been written out. A few fixes have been made.
+An attempt was made to simplify the way on how to get the listeners respond to events from the
+drop-down menus, but was a failure. Listeners are in progress.
+
+April 24, 2014
+A label has been created for dialogs because it will be used in JOptionPane methods. Credits utility created
+and some listener code has been put in place. A look has been done over the material to be used in the
+lecture involving what a student in physics needs to learn either before or at the same time.
+Credits animation sequence fixed, some comments have been put in place, and a few adjustments have been
+made to eliminate unnecessary code.
+
+April 25, 2014
+Panels for the simulations have been created, along with the appropriate tool tip texts. Some classes
+have been created to reference the simulations, and some packages have been created as well
+for more organization.
+
+April 26, 2014 - April 27, 2014
+Two simulations have been mostly programmed. Document listeners have been created to limit entries to
+decimal numbers and whole numbers, and some work has been done with the animation, listeners, and other
+corrections.
+
+April 28, 2014
+The rest of the two simulations have been programmed. No testing has been done, however, and no lecture
+notewriting has been made as well.
+
+April 29 - May 2, 2014
+A few bugs have been fixed, but not much progress with the lectures have been made. At this point, it's 
+too late to create visuals for the lectures. A discrepancy has been discovered with the simulation for 
+Chapter 2 Section 6.
+
+May 3, 2014
+The discrepancy of the time frame for the animation task in the simulation of Chapter 2 Section 6 has
+been fixed. Also, the listeners and the features of the simulation of Chapter 2 Section 1 has been fixed,
+particularly with the issues regarding the unit vector button, magnitude, direction, and synchronizing
+values with the GUI. The testing document has been prepared so that way people interested in testing
+will follow it and take note for what to test and what errors have been found that will be fixed
+once the project presentation is finished. The lecture selection listener has been fixed also.
+
+May 4, 2014
+Listeners have been fixed, the text for the lectures is in progress, and certain things are now in place.
+The lectures must be finished, and the code must be cleaned up and organized for presentation. It must
+be reviewed for how the project is to be delivered.
+
+May 5, 2014
+Quick lectures are now in place for the program. Modification of the loading utility in place. Review for
+project demo presentation and possible modifications of the code with comments expected.
+
+May 6, 2014
+Demo presentation complete.
+
+May 13, 2014
+Comments and descriptions added to classes that have not been described properly as of yet.

@@ -1,0 +1,17 @@
+You're onboard a cruise ship that's moving at 15 km/h in the Gulf of Mexico. You decide that from the front deck, you want to head to the upper deck pool, which involves walking backwards. You move at 6 km/h to your destination. What would then be your velocity based on the water?
+
+Obviously you won't be moving at 15 km/h relative to the water, because then you wouldn't be moving on the cruise ship at all. Instead, because you result in moving slower than the ship relative to the water, your velocity is 9 km/h. When we say relative to, what do we mean we are relating the velocity of an object to what?
+
+This is a subtype of motion called relative motion, because motion is often associated with what's called a frame of reference. It's simply a substance to where a given object is moving along, whether it's on the ground, on water, or in the air.
+
+For instance, when a car is coasting at 85 km/h along a highway, in terms of relative motion, the car is actually travelling at 85 km/h relative to the ground. A box moving forward at 0.5 m/s inside a car, where the car is at 20 m/s, means that the box is moving forward at 20.5 m/s relative to the ground.
+
+Of course, relative motion isn't necessarily limited to one dimension. It is used in multiple dimensions too, because the formula for relative motion is the same and works for vectors as well.
+
+The formula for relative motion is, the velocity vector for an object in relation to a primary medium is the sum of the velocity vector for an object in relation to a secondary medium, and the velocity vector of the secondary medium in relation to the primary medium. 
+
+Here's an example to avoid confusion. Suppose that you're onboard an airliner travelling at 850 km/h, starting from the front side. You want to get back to your seat in the first class lounge, past the wings. You walk at 5 km/h, so your velocity relative to the ground is 855 km/h. You are the object, the secondary medium is the aircraft, and the primary medium is the ground.
+
+Relative motion does work out for vectors in different directions, too. It's best for you to draw diagrams to solve problems related to relative motion. In fact, when you come across more complicated problems involving not just relative motion, you should draw multiple diagrams for each phase of motion or force so that way you can tell where you're at and what the next step is in solving this problem.
+
+It's best for you to get a grasp of the concept and practice it, because then you'll be able to apply it in real-world applications and in problems you may be asked to solve. This concludes relative motion.
